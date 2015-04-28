@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1414048782 source:d:\c-exp\csnereceive\receive.cpp
+	<stdio.h>
+	<stdlib.h>
+	<ws2tcpip.h>
+	<string.h>
+	"pcap.h"
+

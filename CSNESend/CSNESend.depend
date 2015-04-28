@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1414238785 source:d:\c-exp\csnesend\send.cpp
+	<ws2tcpip.h>
+	<stdio.h>
+	<string.h>
+	"pcap.h"
+
